@@ -35,3 +35,11 @@ header {
   letter-spacing: -0.5px;
   color: #151515;
 }
+
+#div-info p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #686868;
+}
