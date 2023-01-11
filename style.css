@@ -23,3 +23,12 @@ header {
 #section-info > #div-info {
   margin-top: 45px;
 }
+
+#div-info h1{
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: -0.5px;
+  color: #151515;
+}
