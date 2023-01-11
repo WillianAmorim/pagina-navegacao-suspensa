@@ -22,6 +22,9 @@ header {
 
 #section-info > #div-info {
   margin-top: 45px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 
 #div-info h1{
