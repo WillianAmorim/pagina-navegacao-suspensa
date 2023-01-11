@@ -19,3 +19,7 @@ header {
 #section-info {
   margin-top: 40px;
 }
+
+#section-info > #div-info {
+  margin-top: 45px;
+}
