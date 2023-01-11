@@ -6,11 +6,16 @@
 
 #nav-mobile {
   position: absolute;
-  margin: 16px 16px 0 16px;
+  padding: 16px 16px 0 16px;
   right: 0;
   display: flex;
   flex-direction: column;
   gap: 30px;
+
+  height: 100%;
+  width: 240px;
+
+  background-color: aqua;
 }
 
 #nav-mobile img {
