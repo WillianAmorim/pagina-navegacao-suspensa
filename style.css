@@ -67,4 +67,10 @@ header {
   margin-bottom: 50px;
   display: flex;
   gap: 25px;
+  justify-content: center;
+}
+
+#div-images img {
+  width: 70px;
+  height: 20px;
 }
