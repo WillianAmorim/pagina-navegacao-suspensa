@@ -11,6 +11,10 @@ header {
   align-items: center;
 }
 
+#img-close-menu {
+  display: none;
+}
+
 #section-img-hero > img{
   width: 100vw;
   margin-top: 24px;
