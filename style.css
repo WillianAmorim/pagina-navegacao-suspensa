@@ -29,6 +29,26 @@
   display: flex;
   flex-direction: column;
   gap: 16px;
+
+  color: #686868;
+
+}
+
+#button-register {
+  height: 42px;
+  width: 195px;
+  border: 1px solid black;
+  text-align: center;
+
+  border: 1.5px solid #686868;
+  border-radius: 14px;
+
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+
+  text-align: center;
+
 }
 
 header {
