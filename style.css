@@ -24,6 +24,13 @@
   align-self: flex-end;
 }
 
+#nav-mobile ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
 header {
   padding: 16px 16px 0 16px;
   display: flex;
