@@ -34,6 +34,12 @@
 
 }
 
+#ul-options li{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+}
+
 #ul-login-register li{
   display: flex;
   justify-content: center;
@@ -42,8 +48,6 @@
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
-
-  color: #686868;
 }
 
 #button-register {
