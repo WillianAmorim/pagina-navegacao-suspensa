@@ -28,7 +28,7 @@
   align-self: flex-end;
 }
 
-#nav-mobile ul {
+#nav-mobile > ul {
   list-style: none;
   display: flex;
   flex-direction: column;
