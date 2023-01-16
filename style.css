@@ -40,7 +40,6 @@
 
 #ul-options {
   display: flex;
-  gap: 10px;
 }
 
 #ul-options li{
@@ -52,6 +51,7 @@
 .arrow-down {
   width: 10px;
   height: 5px;
+  margin-left: 5px;
 }
 
 #ul-login-register li{
