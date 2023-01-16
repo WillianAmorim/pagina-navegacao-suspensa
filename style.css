@@ -54,6 +54,16 @@
   margin-left: 5px;
 }
 
+#ul-features {
+  margin-top: 24px;
+  margin-left: 20px;
+
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
 #ul-login-register li{
   display: flex;
   justify-content: center;
