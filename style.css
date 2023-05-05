@@ -21,7 +21,8 @@
   
 }
 
-#nav-mobile img {
+/* IMAGEM DE "X" PARA FECHAR O MENU MOBILE */
+#img-close-menu {
   width: 24px;
   height: 24px;
   align-self: flex-end;
