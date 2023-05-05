@@ -38,11 +38,12 @@
 
 }
 
-#ul-options li{
+#ul-options {
   display: flex;
   gap: 10px;
-  align-items: center;
+}
 
+#ul-options li{
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
