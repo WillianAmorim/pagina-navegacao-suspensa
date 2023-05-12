@@ -10,7 +10,7 @@
   position: fixed;
   padding: 16px 16px 0 16px;
   right: 0;
-  display: flex;
+  display: none;
   flex-direction: column;
   gap: 30px;
 
